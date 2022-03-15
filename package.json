@@ -36,6 +36,6 @@
   "dependencies": {
     "kanskje": "^2.0.2",
     "lodash": "^4.17.15",
-    "lodash-es": "^4.17.15"
+    "lodash-es": "^4.17.21"
   }
 }
